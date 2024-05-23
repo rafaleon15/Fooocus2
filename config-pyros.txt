@@ -1,0 +1,6 @@
+{
+    "checkpoint_downloads": {
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=19db21402f901bc795e2f04d821d8c08"
+    },
+	"path_outputs": "/content/drive/MyDrive/outputs"
+}

@@ -1,0 +1,6 @@
+{
+    "checkpoint_downloads": {
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/357609"
+    },
+	"path_outputs": "/content/drive/MyDrive/outputs"
+}
